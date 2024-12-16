@@ -17,4 +17,7 @@ The AI engine powers smart contract generation, project customization, and task 
 
   - AI requests are queued and managed by the backend for load balancing and efficient resource utilization.
 
-- **Knowledge Base**: Kubernetes is used to deploy and scale AI workloads dynamically.
+- **Knowledge Base**: 
+
+  - The platform integrates a robust AI knowledge base that leverages local models and third-party AI providers (e.g., OpenAI, Anthropic) to generate and refine smart contracts. 
+  - This system combines natural language processing with domain-specific knowledge in blockchain, enabling efficient, secure, and high-quality code generation.
